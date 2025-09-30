@@ -43,4 +43,4 @@ The Random Forest model identified the following as most influential:
 
 ---
 
-Want to give feedback or collaborate? Open a PR or drop me a message.
+Want to give feedback or collaborate? Drop me a message.
